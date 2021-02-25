@@ -2,7 +2,7 @@ import React from "react";
 
 import Link from "next/link";
 
-import formatThousand from "src/helpers/formatThousand";
+import formatThousand from "src/helpers/formatThousand";  
 
 export default function RenderItem({ item }) {
   return (
